@@ -15,7 +15,7 @@ which are not capable by any other methods. PLUS achieves the most favorable per
 - [Xiaoyu Lu](https://zcslab.github.io/people/xiaoyu/)
 (lu14@iu.edu)
 
-PhD candidate, Indiana University School of Medicine
+Ph.D. candidate, Indiana University School of Medicine
 
 - [Sha Cao](https://medicine.iu.edu/faculty/38873/cao-sha)
 (shacao@iu.edu)
