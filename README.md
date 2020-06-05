@@ -9,6 +9,7 @@
 ```
 Prediction=PLUS(train_data=X,Label.obs=Label,Sample_use_time=30,l.rate=1,qq=0.1)
 ```
+Details Of each parameter can be found from notations in code.
 
 ## Contact Information
 
