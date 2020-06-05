@@ -6,3 +6,20 @@ which are not capable by any other methods. PLUS achieves the most favorable per
 
 ## The motivation of PLUS
 ![image](https://github.com/xiaoyulu95/PLUS/blob/master/fig/F1.png)
+
+
+
+
+## Contact Information
+
+- [Xiaoyu Lu](https://zcslab.github.io/people/xiaoyu/)
+(lu14@iu.edu)
+
+PhD candidate, Indiana University School of Medicine
+
+- [Sha Cao](https://medicine.iu.edu/faculty/38873/cao-sha)
+(shacao@iu.edu)
+
+Assistant Professor
+
+Department of Biostatistics, Indiana University
